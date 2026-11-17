@@ -1,0 +1,15 @@
+buat issue.md berisi planning untuk membuat ini:
+
+buat project baru di folder ini
+menggunakan Bun
+
+dan menggunakan dispendency:
+-elysia.js
+-Drizzle
+-Mysql
+
+jangan terlalu low level atau detal
+
+cukup instruksikan secara high level
+
+nanti dokument planning nya akan digunakan oleh programmer atau model lain yang lebih murah.
